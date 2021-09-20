@@ -1,12 +1,12 @@
 # Workshop: Walk_Make
-### Introduction to gathering spatial data, using design thining to find a reserach idea, create a survey, make a map and a storymap. 
+### Introduction to gathering spatial data, using design thinking to find a reseaarch idea, create a survey, make a map and a Storymap. 
 ## 1.1 Infrastructure Deserts
  [What are Infrastructure Deserts](https://arcg.is/08mLK1)_ Clowder Research Project Link. 
  
  Concentrate on layers of neighborhood infrastructure, and the Social Impacts of Infrastructure
 
 ## 1.2 GeoDesign Cards:Observation Tool 3
-How to do a photo_walk. Use a smartphone with location enabled, so that GPS data is gathered along with the images. Photograph aspects that intrigue. Follow the list of example, keep in mind an emphasis on infrastructure assessment.
+How to do a photo_walk. Use a smartphone with location enabled, so that GPS data is gathered along with the images. Photograph aspects that intrigue. Follow the list of examples, keep in mind an emphasis on infrastructure assessment.
 ![](./WMi/geocard_OT3.png)
 **note: ArcGIS doesn't work well with vertical photos- try to stick with landscape format images.**
 Save the images into a folder on the computer. Check that they have location data **(properties, GPS)**
@@ -14,6 +14,7 @@ Save the images into a folder on the computer. Check that they have location dat
 ## Sign up for an SMU ArcGIS online Account
 [ArcGIS Online](https://www.arcgis.com) 
 Signin through *Your ArcGIS organization's URL: SMUdallas* then signin through the usual SMU login.
+[SMU ArcGIS account access instructions](https://arcg.is/0arbLO0)
 
 ## 1.3 Import geo-stamped photos into a Storymap Tour
 Find the 9-square grid, and use the dropdown to see available APPS.
@@ -21,7 +22,7 @@ Find the 9-square grid, and use the dropdown to see available APPS.
 ![](./WMi/2021-09-20-11-10-12.png)
 ![](./WMi/2021-09-20-11-10-53.png)
 
-Follow the app for *Storymaps* . Add a New story - use the dropdown to start with a 'Guided map tour'!
+Follow the app for *Storymaps* . Add a + New Story' - use the dropdown to start with a 'Guided map tour'!
 [](./WMi/2021-09-20-11-12-07.png)
 
 Browse to the images folder and import them into Storymap. Select colors and map background.
@@ -69,6 +70,9 @@ Create a layered GIS map of the same neighborhood as the study, gathering data f
 Another New Map can be made with the specific site data gathered from the Survey 123. 
 
 ## 1.7 Research analysis presentation in a Storymap
+Add to the original Photo_Wlk tour storymap with the additional design research and infrastructure work. 
+Ensure that at least 2 maps are part of the Story.
+
 Include the following:
 * photo tour with location map
 * photos of OB3 post-its and notes
