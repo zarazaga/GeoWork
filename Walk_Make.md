@@ -61,6 +61,7 @@ This example, from a full semester project, goes through Photo_Walk, Positioning
 ## 1.6 GeoDesign Cards:Observation Tool 2_pile it on data
 ![](./WMi/geocard_OT2.png)
 Reurn to ArcGIS Online Home - and then the Tab for *Map*
+
 ![](./WMi/2021-09-20-11-31-59.png)
 
 Add layers to a New Map. Use the dropdown to ensure that the search for Content is beyond 'My Content' and is, in fact, searching the whole of 'ArcGIS Online' for interesting and useful content' 
