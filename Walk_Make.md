@@ -64,6 +64,7 @@ Reurn to ArcGIS Online Home - and then the Tab for *Map*
 ![](./WMi/2021-09-20-11-31-59.png)
 
 Add layers to a New Map. Use the dropdown to ensure that the search for Content is beyond 'My Content' and is, in fact, searching the whole of 'ArcGIS Online' for interesting and useful content' 
+
 ![](./WMi/2021-09-20-11-33-58.png)
 
 Create a layered GIS map of the same neighborhood as the study, gathering data from online sources to uncover aspects that support, or add richness, to the data found and made. There are tens of thousands of datasets online - it's exciting to explore possible datasets. Look at the metadata for the layers chosen to ensure that there is some level of beliveability in the data. 
