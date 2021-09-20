@@ -7,7 +7,7 @@
 
 ## 1.2 GeoDesign Cards:Observation Tool 3
 How to do a photo_walk. Use a smartphone with location enabled, so that GPS data is gathered along with the images. Photograph aspects that intrigue. Follow the list of example, keep in mind an emphasis on infrastructure assessment.
-![](geocard_OT3.png)
+![](./WMi/geocard_OT3.png)
 **note: ArcGIS doesn't work well with vertical photos- try to stick with landscape format images.**
 Save the images into a folder on the computer. Check that they have location data **(properties, GPS)**
 
@@ -16,18 +16,18 @@ Save the images into a folder on the computer. Check that they have location dat
 Signin through *Your ArcGIS organization's URL: SMUdallas* then signin through the usual SMU login.
 
 ## 1.3 Import geo-stamped photos into a Storymap Tour
-Find the 9-square grid, and use the dropdown to see available APPS. ![](2021-09-20-11-10-12.png)
-![](2021-09-20-11-10-53.png)
-Follow the app for *Storymaps* . Add a New story - use the dropdown to start with a 'Guided map tour'![](2021-09-20-11-12-07.png)
+Find the 9-square grid, and use the dropdown to see available APPS. ![](./WMi/2021-09-20-11-10-12.png)
+![](./WMi/2021-09-20-11-10-53.png)
+Follow the app for *Storymaps* . Add a New story - use the dropdown to start with a 'Guided map tour'![](./WMi/2021-09-20-11-12-07.png)
 Browse to the images folder and import them into Storymap. Select colors and map background.
 [Erik's Photo_walk example](https://arcg.is/0jXWOe)
 
 ## 1.4 GeoDesign Cards:Positioning Tools 1 + 2
-![](2021-09-20-PT1.png)
+![](./WMi/2021-09-20-PT1.png)
 Use the PT1 questions to work with a team. THe intention is to allow your intuitive understanding of the site to become visible, through the way you uncover issues of infrastructure. Don't start with the problem, uncover the porblem through the aspects of the site that have caught your attention- the problem may be different from what you first expected to see. 
 
 Use Positioning Tool 2 to work from the things you have seen, to uncovering the opinions or positions that you take, or want to take, on these observations.  Observations are not neutral. 
-![](2021-09-20-PT2.png)
+![](./WMi/2021-09-20-PT2.png)
 This process allows one to uncover the unexpected, rather than fall back on the familiar. 
 
 A *design idea* is not really just an idea, but involves taking sides- taking a position - on an aspect of the work, the research or the site. 
@@ -37,7 +37,8 @@ Finish with **"my POV (point-of-view) on the site is that** . . . ."
 ## 1.5 Create Data: Write a survey to further investigate the POV. Gather site data. 
 
 Return to the 9-square dropdown, and the APP called 'Survey 123'.
-![](2021-09-20-11-26-12.png)
+![](./WMi/2021-09-20-11-26-12.png)
+
 A simple structure for creating a survey, this GIS based app has two unusal features:
 1. It allows the collection of location, when one adds a map to the survey.
 2. It allows the collection of photos with data collection.
@@ -51,11 +52,12 @@ Use Survey 123 to gather at least 10-20 elements of site data.
 
 This example, from a full semester project, goes through Photo_Walk, Positioning Tools 1-4, and Survey 123, and then to Heuristic Cards for design-ideas, giving an example of where this process can lead.
 ## 1.6 GeoDesign Cards:Observation Tool 2_pile it on data
-![](geocard_OT2.png)
+![](./WMi/geocard_OT2.png)
 Reurn to ArcGIS Online Home - and then the Tab for *Map*
-![](2021-09-20-11-31-59.png)
+![](./WMi/2021-09-20-11-31-59.png)
+
 Add layers to a New Map. Use the dropdown to ensure that the search for Content is beyond 'My Content' and is, in fact, searching the whole of 'ArcGIS Online' for interesting and useful content' 
-![](2021-09-20-11-33-58.png)
+![](./WMi/2021-09-20-11-33-58.png)
 
 Create a layered GIS map of the same neighborhood as the study, gathering data from online sources to uncover aspects that support, or add richness, to the data found and made. There are tens of thousands of datasets online - it's exciting to explore possible datasets. Look at the metadata for the layers chosen to ensure that there is some level of beliveability in the data. 
 
