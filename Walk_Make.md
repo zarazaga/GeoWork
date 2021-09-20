@@ -43,6 +43,7 @@ Finish with **"my POV (point-of-view) on the site is that** . . . ."
 ## 1.5 Create Data: Write a survey to further investigate the POV. Gather site data. 
 
 Return to the 9-square dropdown, and the APP called 'Survey 123'.
+
 ![](./WMi/2021-09-20-11-26-12.png)
 
 A simple structure for creating a survey, this GIS based app has two unusal features:
