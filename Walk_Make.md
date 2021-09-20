@@ -16,9 +16,14 @@ Save the images into a folder on the computer. Check that they have location dat
 Signin through *Your ArcGIS organization's URL: SMUdallas* then signin through the usual SMU login.
 
 ## 1.3 Import geo-stamped photos into a Storymap Tour
-Find the 9-square grid, and use the dropdown to see available APPS. ![](./WMi/2021-09-20-11-10-12.png)
+Find the 9-square grid, and use the dropdown to see available APPS.
+
+![](./WMi/2021-09-20-11-10-12.png)
 ![](./WMi/2021-09-20-11-10-53.png)
-Follow the app for *Storymaps* . Add a New story - use the dropdown to start with a 'Guided map tour'![](./WMi/2021-09-20-11-12-07.png)
+
+Follow the app for *Storymaps* . Add a New story - use the dropdown to start with a 'Guided map tour'!
+[](./WMi/2021-09-20-11-12-07.png)
+
 Browse to the images folder and import them into Storymap. Select colors and map background.
 [Erik's Photo_walk example](https://arcg.is/0jXWOe)
 
