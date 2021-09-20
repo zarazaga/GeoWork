@@ -68,7 +68,7 @@ Create a layered GIS map of the same neighborhood as the study, gathering data f
 
 Another New Map can be made with the specific site data gathered from the Survey 123. 
 
-## 1.7 Reserach analysis presentation in a Storymap
+## 1.7 Research analysis presentation in a Storymap
 Include the following:
 * photo tour with location map
 * photos of OB3 post-its and notes
